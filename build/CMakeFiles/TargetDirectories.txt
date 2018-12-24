@@ -1,0 +1,3 @@
+/home/kenshen/Projects/Frontend/build/CMakeFiles/rebuild_cache.dir
+/home/kenshen/Projects/Frontend/build/CMakeFiles/FrontEnd.dir
+/home/kenshen/Projects/Frontend/build/CMakeFiles/edit_cache.dir

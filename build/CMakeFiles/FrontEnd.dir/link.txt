@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/FrontEnd.dir/src/main.cpp.o CMakeFiles/FrontEnd.dir/src/FrontEnd.cpp.o CMakeFiles/FrontEnd.dir/src/systems.cpp.o  -o FrontEnd /usr/lib/libSDL2main.a /usr/lib/libSDL2.so -lpthread /usr/lib/libSDL2_image.so /usr/lib/libSDL2_ttf.so 
